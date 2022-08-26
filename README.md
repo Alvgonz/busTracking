@@ -84,17 +84,11 @@ $ yarn start
 
 After clone this project you have to add the acces token in the folder mapanimation.js. You can create an acces token in https://www.mapbox.com/ . You have to create an account and then the acces token.
 
-## :sparkles: Features ##
+## :sparkles: Roadmap of improvements ##
 
 :heavy_check_mark: I will do it for locations in my city;\
 :heavy_check_mark: I will add different routes that you can switch with aform;\
 :heavy_check_mark: Create an option you can mark the stops with number so you can check how many sotps you have to pass to arrive;
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
 
 ## :memo: License ##
 
